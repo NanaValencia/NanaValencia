@@ -4,7 +4,7 @@
 - :nerd_face: I’m currently learning REACT and JavaScript
 - 💬 Ask me about Creativity and New ideas
 - 📫 How to reach me [My Email](johanavalencia888@gmail.com)
-- ⚡ Fun fact: Sushilover. I cannot stop to eat it
+- ⚡ Fun fact: Sushilover. I cannot stop eating it
 - :heart: I also love to write and photography [My Instagram](https://www.instagram.com/origamia)
 
 ### :hammer_and_wrench:Languages and Tools
