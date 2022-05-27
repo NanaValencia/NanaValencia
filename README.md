@@ -10,3 +10,5 @@
 ### :hammer_and_wrench:Languages and Tools
 
 VisualStudio | Illustrator | Figma | GitHub | Firebase | CSS | HTML | JS | Node.js | React
+
+[![Nana Valencia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaValencia)](https://github.com/NanaValencia/github-readme-stats)
